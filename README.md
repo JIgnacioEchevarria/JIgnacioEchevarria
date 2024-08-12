@@ -1,6 +1,9 @@
 # Hello 👋
 I'm Juan Ignacio, Web developer and Student from Buenos Aires, Argentina.
 
+- 😄 I am 21 years old.
+- 📚 I am currently studying at Unicen.
+
 ## Tools I use
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
